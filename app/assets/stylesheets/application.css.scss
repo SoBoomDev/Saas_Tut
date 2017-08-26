@@ -39,6 +39,18 @@
    font-weight: 800;
  }
  
+ .navbar-default .navbar-toggle .icon-bar {
+   background-color: white;
+ }
+ 
+ .navbar-default .navbar-toggle {
+   border: 2px solid white;
+ }
+ 
+ .navbar-default .navbar-nav > li > a {
+    color: #333;
+}
+ 
  h1, h2, h3 {
    font-family: 'Open Sans', sans-serif;
  }
